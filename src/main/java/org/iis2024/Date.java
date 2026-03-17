@@ -84,4 +84,7 @@ public class Date {
       return false;
     }
   }
+    public void metodonuevo() {
+        System.out.println("Metodo nuevo");
+    }
 }
